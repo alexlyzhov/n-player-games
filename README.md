@@ -4,8 +4,6 @@ The project is inspired by new approach for tackling the problem of finding game
 
 The authors have proposed a new algorithm to find stable fixed points (which undersome conditions can be considered Nash equilibrium) by introducing the notion of Hamiltonian games and inventing a new algorithm to find stable fixed points (which under some conditions can be considered Nash equilibrium).
 
-The authors of [1] introduce the notion of Hamiltonian games to tackle the problem of finding game equilibriums. 
-
 For a $n$-player game with parameter w, they define the Hessian of a game to be 
 $H(w) = \nabla_w \xi (w)^T$
 
