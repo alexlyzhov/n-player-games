@@ -17,6 +17,8 @@ loss functions
 
 `gan_experiments.ipynb` - the effect of game dynamics on behavior of generator and beyond
 
+`final_distribution_numerical_experiments` - some numerical experiments related to quadratic losses.
+
 # References
 
 [1] [The Mechanics of n−Player Differentiable Games](https://arxiv.org/pdf/1802.05642.pdf)
