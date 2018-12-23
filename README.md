@@ -1,8 +1,8 @@
-__TODO: fix formulas. Halve description of the paper, include short descriptions of our results__
+__TODO: fix formulas, include short descriptions of our results__
 
 # Introduction
 
-The project is inspired by new approach for tackling the problem of finding game equilibriums, presented in [The Mechanics of n−Player Differentiable Games](https://arxiv.org/pdf/1802.05642.pdf) [1].  
+The project is inspired by new approach for tackling the problem of finding game equilibriums, presented in [The Mechanics of n−Player Differentiable Games](https://arxiv.org/pdf/1802.05642.pdf) [1].
 
 The authors have proposed a new algorithm to find stable fixed points (which undersome conditions can be considered Nash equilibrium) by introducing the notion of Hamiltonian games and inventing a new algorithm to find stable fixed points (which under some conditions can be considered Nash equilibrium).
 
