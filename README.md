@@ -1,3 +1,5 @@
+A course project by S. Pozdniakov, E. Trofimova, I. Bulygin, A. Lyzhov, K. Botashev
+
 # Introduction
 
 The project is inspired by new approach for tackling the problem of finding game equilibriums, presented in [The Mechanics of n−Player Differentiable Games](https://arxiv.org/pdf/1802.05642.pdf) [1].
